@@ -14,15 +14,12 @@ import os
 import getjsons as gj
 import time
 import sys
-#import urllib
 from requests.exceptions import ConnectionError, ReadTimeout
 from deep_translator import GoogleTranslator
 from deep_translator import DeeplTranslator
 
 # In[2]:
 
-
-import sys
 import clipboard
 from time import sleep
 
@@ -192,26 +189,6 @@ def SayMe(message):
     else:
         bot.send_message(message.chat.id, text)
 
-def CatFuck(message):
-    cat_fuck = ['кота ебал','ебал кота','кота твоего ебал','твоего кота ебал','твоего ебал кота','ебал твоего кота','кота ебал твоего','ебать кота','кота ебать','твоего кота ебать','твоего ебать кота','кота твоего ебать','ебать твоего кота','кот ебаный мной','ебал котов','котов ебал']
-    text = message.text
-    text = text.lower()
-    eng2rus = {ord('a'):'а',
-               ord('e'):'е',
-               ord('o'):'о',
-                       ord('k'):'к',
-                       ord('t'):'т',
-                       ord('0'):'о',
-                       ord('6'):'б',
-               ord('y'):'у'
-              }
-    text = text.translate(eng2rus)
-    #bot.send_message(message.chat.id, text)
-    pattern = re.compile("(([кkKК][oOОо0][тТtT][AaаА].*[eEЕе][б6Б][AaаА](([лЛ])|([TtТт][Ььb6])))|.*([eEЕе][б6Б][AaаА](([лЛ])|([TtТт][Ььb6])).*[кkKК][oOОо0][тТtT][AaаА]))")
-    pattern.match(text)
-    #for each in cat_fuck:
-    if pattern.match(text):
-        bot.delete_message(message.chat.id, message.message_id)
 # In[11]:
 
 
@@ -446,7 +423,6 @@ def get_text_messages(message):
 @bot.message_handler(content_types=['text'])
 def get_text_messages(message):
     fetch_gif_url(message)
-    CatFuck(message)
     #path1 = 'TrigExport/question.txt'
     #ifcat = message.text[0:4].lower()
     #alptrue = message.text[3:5].lower().isalpha()
