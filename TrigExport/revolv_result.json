@@ -1,0 +1,67 @@
+{
+	"Name": "revolver_result",
+	"Type": "1",
+	"Questions": [
+		{
+			"quest_text": "!revolver_result"
+		}
+	],
+	"Answers": [
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *\r\n» ЅјЅј’"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* осечка *\r\nпопробуй ещё раз! ;)"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* БАБАХ!! *\r\nупс. Мимо\r\nо__о\r\nМозг не задет!"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* БАБАЦ!!! * и красивый веер красных брызг! ”ииии!!"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "* щёлк *"
+		}
+	]
+}

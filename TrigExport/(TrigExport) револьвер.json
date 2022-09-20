@@ -1,0 +1,117 @@
+{
+	"Name": "револьвер",
+	"Type": "1",
+	"Next": "!revolver_result",
+	"Questions": [
+		{
+			"quest_text": "!револьвер"
+		},
+		{
+			"quest_text": "револьвер"
+		},
+		{
+			"quest_text": "!Револьвер"
+		},
+		{
+			"quest_text": "револьвер!"
+		},
+		{
+			"quest_text": "Револьвер!"
+		},
+		{
+			"quest_text": "Револьвер"
+		}
+	],
+	"Answers": [
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} изящным текучим движением выхватывает контрабандный \"Смит-Вессон\", отработанным движением раскручивает барабан. Холод воронёной стали у виска..\r\n ",
+			"answ_pic_aft_text": "https://springfieldmuseums.org/wp-content/uploads/2015/10/model-1-first-issue-revolver-22-caliber-by-smith-wesson-co-springfield-ma.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} скупым движением выхватывает устрашающий \"Auto Mag 44\", не глядя выбирает магазин. Холод сверкающей стали у виска..\r\n ",
+			"answ_pic_aft_text": "https://gastatic.com/digest/wp-content/uploads/2021/05/Z62_0125-1-1024x577.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} с усилием поднимает мрачный \"РШ-12\", раскручивает пятигранный барабан. Холод тяжёлой стали у виска..\r\n ",
+			"answ_pic_aft_text": "https://www.armoury-online.ru/assets/photo/%D0%A0%D0%A8-12.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} с трудом поднимает чудовищный \"Pfeifer Zeliska\", раскручивает барабан. Холод чёрной стали у виска..\r\n ",
+			"answ_pic_aft_text": "https://static.wikia.nocookie.net/guns/images/3/35/Pfeifer_Zeliska_1.png/revision/latest?cb=20181015035749"
+		},
+        {
+          	"answ_poss": 100,
+			"answ_text": "{name} неумело вытаскивает из-за пазухи \"S&W Магнум 500\", нервно раскручивает барабан. Сталь у виска.. \r\n",
+			"answ_pic_aft_text": "https://www.collectorsfirearms.com/19516/smith-wesson-500-500-s-w-magnum-pr48375.jpg"
+        },
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} резко выхватывает посеребрёный \"Браунинг\", не глядя выбирает магазин. Сталь ложится на висок..\r\n",
+			"answ_pic_aft_text": "https://profile.ru/wp-content/uploads/2019/10/Jack-Sullivan-Vostock-Photo9823676_Sullivan-1200x795.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} неспешно вытаскивает из широких штанин шестизарядный колесцовый пистоль, насыпает пороха на полку, и неловко отведя руку, подносит к виску..\r\n",
+			"answ_pic_aft_text": "https://avatars.mds.yandex.net/get-zen_doc/3770780/pub_607d9ee4a0e0e9115729aee9_607fc977e4bc297628c67bca/scale_2400"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} стремительно выхватывает из кобуры несуразный 20-зарядный французский \"Лефоше\" и засовывает в рот..\r\n",
+			"answ_pic_aft_text": "http://historypistols.ru/wp-content/uploads/2014/07/38.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} шустро выхватывает краденый офицерский \"Наган\", ударом раскручивает барабан. Холод иззубренного дула у виска..\r\n",
+			"answ_pic_aft_text": "http://oruzhie.info/images/nagan/10452283.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} достаёт дробовик с гравировкой \"Собственность Курта\"\r\n",
+			"answ_pic_aft_text": "https://cdn.shazoo.ru/580927_nRWZabBToI_gyzwgrkvqsr61.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} вынимает страшненький \"Sauer Bar\", пару раз поворачивает барабан. Подносит к виску угловатый ствол..\r\n",
+			"answ_pic_aft_text": "http://www.littlegun.info/arme%20allemande/sauer%20and%20sohn%20mod%20bar-03.JPG"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} неторопливо вынимает чудовищный \"Mateba Model 6 Unica\", раскручивает ребристый барабан. Дуло тяжело ложится на висок..\r\n",
+			"answ_pic_aft_text": "https://i.ibb.co/JFnN3bz/Mateba-6-Unica.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} отработанным движением выхватывает из кобуры длинный \"Ruger Super Redhawk\", быстрым движением раскручивает барабан. Висок чувствует опасное прикосновение металла..\r\n",
+			"answ_pic_aft_text": "https://www.armoury-online.ru/usr/templates/images/1275303811779.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} тяжело выхватывает огромный \"Кольт Пайтон\", ударом раскручивает барабан. Воронёное дуло смотрит в висок..\r\n",
+			"answ_pic_aft_text": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flickr_-_~Steve_Z~_-_Colt_Target_Python_%281%29.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} змеиным движением выхватывает потемневший от времени \"Миротворец\", вскользь раскручивает барабан. Дуло хищно смотрит в висок..\r\n",
+			"answ_pic_aft_text": "https://upload.wikimedia.org/wikipedia/commons/9/97/Colt_SAA_US_Artillery_RAC.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} выхватывает потёртый \"Маузер С-96\". Длинное серое дуло смотрит в висок..\r\n",
+			"answ_pic_aft_text": "https://militaryarms.ru/wp-content/uploads/2019/08/mauzer-k-96.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} смазанным, незаметным глазу движением выхватывает огромный древний револьвер. Длинное рябое дуло смотрит в висок..\r\n",
+			"answ_pic_aft_text": "https://i.ibb.co/ZWCJYpK/Colt-Model-1851-Navy-Percussion-Revolver.jpg"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} неспешно вынимает трофейный японский \"Люгер P08\". Короткое дуло холодно тыкается в висок..\r\n",
+			"answ_pic_aft_text": "https://molva33.ru/wp-content/uploads/2017/12/luger-p08-pistolet-lyugera-768x512.jpg"
+		}
+	]
+}

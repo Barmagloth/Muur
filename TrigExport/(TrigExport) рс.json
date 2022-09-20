@@ -1,0 +1,182 @@
+{
+	"Name": "рс",
+	"Type": 1,
+	"IsReply": 2,
+	"IsReg": 1,
+	"Questions": [
+		{
+			"quest_text": "рс"
+		}
+	],
+	"Answers": [
+		{
+			"answ_poss": 4,
+			"answ_text": "Так. О чём бишь мы?.."
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Продолжайте, продолжайте."
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Я ничего не понял >___<"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "А?! Что? Кто здесь? о__о"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*Муур заглядывает, охуевает, уходит*"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Помедленнее, я записываю.."
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Однако!"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*складывает лапки на пузе*\r\nОчень интересно."
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Ух ты!"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Да ладно? о__о"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Так. Я что-то пропустил?.."
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "ээ.. Это как?"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "это ты вот серьёзно щас?"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*чешет в затылке*"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "кря! 0__0"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "офигеть"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "вау!"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "охереть!"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "бля! Ээ, то есть - мяу!"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*ничего не понятно, но очень интересно*"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*нервно ест попкорн*"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*удивлённо поднимает бровки*"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "хмм, интересно, конечно.."
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*испуганно прячется*"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "кто бы мог подумать.."
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "ничего себе"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "это хорошо или плохо?"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "ну, могло быть и хуже"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "интересненько"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "а дальше что?"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "*понимающе кивает*"
+		},
+				{
+			"answ_poss": 4,
+			"answ_text": "мммм, потрясающе"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "(о___о)"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "(-___-)"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "https://thumbs.gfycat.com/NiftyThankfulEasternglasslizard-size_restricted.gif",
+			"isit_pic": 2
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "https://thumbs.gfycat.com/BlandFairIberianmole-max-1mb.gif",
+			"isit_pic": 2
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "https://memeguy.com/photos/thumbs/my-reaction-to-every-first-comment-on-the-front-page-63935.gif",
+			"isit_pic": 2
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "https://i.imgur.com/yizngvE.gif",
+			"isit_pic": 2
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "чо?.. \r\nо__о"
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "https://c.tenor.com/T-zir4Dji4kAAAAC/what-bird.gif",
+			"isit_pic": 2
+		},
+		{
+			"answ_poss": 4,
+			"answ_text": "Вот это поворот!"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"Name": "Ъуъ",
+	"Type": 1,
+	"IsReply": 2,
+	"Questions": [
+		{
+			"quest_text": "Ъуъ"
+		},
+		{
+			"quest_text": "ЪУЪ"
+		},
+		{
+			"quest_text": "ъуъ"
+		}
+	],
+	"Answers": [
+		{
+			"answ_poss": 100,
+			"answ_text": "https://cdn1.savepice.ru/uploads/2019/11/1/19dbf78628caff0e392ee1db933d8f04-full.png",
+			"isit_pic": 1
+		}
+	]
+}

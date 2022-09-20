@@ -1,0 +1,49 @@
+{
+	"Name": "Деньги",
+	"Type": 1,
+	"Questions": [
+		{
+			"quest_text": "Деньги"
+		},
+		{
+			"quest_text": "Денег"
+		},
+		{
+			"quest_text": "Деньгами"
+		},
+		{
+			"quest_text": "Деньгах"
+		},
+		{
+			"quest_text": "деньги"
+		},
+		{
+			"quest_text": "денег"
+		},
+		{
+			"quest_text": "деньгами"
+		},
+		{
+			"quest_text": "деньгах"
+		}
+	],
+	"Answers": [
+		{
+			"answ_poss": 100,
+			"answ_text": "Эти блестящие кругляши вечно куда-то деваются!"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "*орёт* С РОЖДЕНИЯ БОББИ ПАЙ-МАЛЬЧИКОМ БЫЫЛ"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "Деньги зло! Зла не хватает!"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://5uglov.ru/images/post/1516186430.jpg",
+			"isit_pic": 1
+		}
+	]
+}

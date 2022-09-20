@@ -1,0 +1,34 @@
+{
+  "Name": "Test",  
+  "Type": 1,
+  "Questions": [
+    {
+      "quest_text": "test"
+    },
+	{
+      "quest_text": "тест"
+    },
+	{
+      "quest_text": "ntcn"
+    },
+    {
+      "quest_text": "еуые"
+    }
+  ],
+  "Answers": [
+    {
+      "answ_poss": 100,
+      "answ_text": "TEST OK"
+    },
+    {
+      "answ_poss": 100,
+      "answ_text": "https://www.english-efl.com/wp-content/uploads/2019/12/test.jpg",
+	  "isit_pic": 1
+    },
+	{
+      "answ_poss": 100,
+      "answ_text": "https://www.latitudefestival.com/wp-content/uploads/2019/04/test.gif",
+	  "isit_pic": 2
+    }
+  ]
+}

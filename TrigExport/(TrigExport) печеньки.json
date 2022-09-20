@@ -1,0 +1,58 @@
+{
+	"Name": "печеньки",
+	"Type": "1",
+	"Questions": [
+		{
+			"quest_text": "печеньки"
+		},
+		{
+			"quest_text": "печенье"
+		},
+		{
+			"quest_text": "печенья"
+		},
+		{
+			"quest_text": "печеньем"
+		},
+		{
+			"quest_text": "печеньками"
+		},
+		{
+			"quest_text": "печеньке"
+		},
+		{
+			"quest_text": "печенькой"
+		},
+		{
+			"quest_text": "печеньками"
+		},
+		{
+			"quest_text": "печеньку"
+		},
+		{
+			"quest_text": "печенек"
+		}
+	],
+	"Answers": [
+		{
+			"answ_poss": 100,
+			"answ_text": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2019/08/1024/512/cookie-monster-Sesame-Street.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://pmcvariety.files.wordpress.com/2015/01/cookie-monster-pbs-special.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://mondrian.mashable.com/uploads%252Fcard%252Fimage%252F930423%252F97a69861-1354-408b-9551-e24803ef956f.jpg%252F950x534__filters%253Aquality%252890%2529.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.imgur.com/KFGpyES.gif?noredirect",
+			"isit_pic": 1
+		}
+	]
+}

@@ -1,0 +1,249 @@
+{
+	"Name": "обнять",
+	"Type": 1,
+	"IsReply": 1,
+	"Questions": [
+		{
+			"quest_text": "обнять"
+		},
+		{
+			"quest_text": "Обнять"
+		},
+		{
+			"quest_text": "обнять!"
+		},
+		{
+			"quest_text": "Обнять!"
+		}
+		
+	],
+	"Answers": [
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} с чувством обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} от души обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name} так, что рёбра хрустят"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} нежно обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} осторожно обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name} и заворачивает в одеялко"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} тихонечко обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name}. А потом ещё раз."
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "С радостным визгом \"Больше обнимашек богу обнимашек!\" {name} обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name} и гладит по головушке"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name} и чешет за ушком"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name}. Котобот не выдерживает и тоже лезет обниматься."
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает лапоньками {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name} и шепчет на ухо что-то ободряющее"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name}, похлопывая по спинке"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} ползёт к {reply_to_name} обниматься"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} верещит \"ОБНИМАААШКИИИ!!\" и радостно жмякает {reply_to_name} "
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name}, приговаривая \"Ты жеж лапушка!\""
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} поглаживает {reply_to_name} по спинке, обнимая"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} дружески пожамкивает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} и {reply_to_name} бегут друг к другу с криками \"Соул!!\" \"Блэкстар!!\""
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} и {reply_to_name} обнимаются как юные лосята, не желающие выпадать из родного гнезда"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} успокаивающе обнимает {reply_to_name} "
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} со слезами счастья обнимает {reply_to_name} "
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает-преобнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name}, урурушкая, обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} сочувствующе обнимает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/1THKQfm/cactus.png",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/HGTrWqY/catus.png",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} нежно тянет лапоньки к {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} с умилением тискает {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} тепло обнимается с {reply_to_name}"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимается с {reply_to_name} так что аж кровь кишки распидорасило"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} закутывает {reply_to_name} в плед и чмокает в макушку"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name} и угощает вкусняшкой"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} упаковывает {reply_to_name} в креслице и дарит кружечку с какавой"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} гладит {reply_to_name} и показывает картинки с котиками"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} обнимает {reply_to_name} и шепчет, что поделится секретным бабушкиным рецептом печенья"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "{name} приносит {reply_to_name} спящего котика"
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.pinimg.com/564x/3d/c6/dd/3dc6dda31920c9fb1d939ea7114c1caa.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/DDC2zHH/beautiful-and-cute-animal-hug-bjsrealm-43090292-236-266-1.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/ym9xzqJ/4130495c84b5ea84c45a54b3722c5ce5-1.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/sC8cP4S/image-2022-05-04-22-10-45.png",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/j5Ykgr6/image-2022-05-04-22-44-09.png",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/6ZqPY3h/2022-05-31-141650.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/TcPw7NV/K-SGhq-D4kg-U.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/t8q7917/2015-11-01-00-28.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "http://img2.joyreactor.cc/pics/post/%D1%82%D0%B8%D0%B3%D1%80-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BA%D0%BE%D1%82%D1%8D-%D0%BA%D0%BE%D1%82%D1%8D-%D0%B6%D0%B8%D0%B2%D0%BD%D0%BE%D1%81%D1%82%D1%8C-6196114.jpeg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://kartinkin.net/uploads/posts/2022-02/1644876805_1-kartinkin-net-p-obnimashki-kartinki-1.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "http://ic.pics.livejournal.com/lianiana/12274810/42120/42120_original.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://a.d-cd.net/13ee8e2s-960.jpg",
+			"isit_pic": 1
+		},
+		{
+			"answ_poss": 100,
+			"answ_text": "https://i.ibb.co/Z6mhYD2/photo-2022-06-07-20-34-46.jpg",
+			"isit_pic": 1
+		}
+	]
+}

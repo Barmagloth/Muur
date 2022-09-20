@@ -1,0 +1,56 @@
+{
+  "Name": "слава сотоне",
+  "IsReply": 2,
+  "Questions": [
+    {
+      "quest_text": "во славу сотоне"
+    },
+    {
+      "quest_text": "во славу сатане"
+    },
+	{
+      "quest_text": "слава сотоне"
+    },
+	{
+      "quest_text": "во славу сотоне!"
+    },
+	{
+      "quest_text": "слава сотоне!"
+    },
+	{
+      "quest_text": "во славу сатане!"
+    },
+	{
+      "quest_text": "слава сатане"
+    },
+	{
+      "quest_text": "Во славу сотоне"
+    },
+    {
+      "quest_text": "Во славу сатане"
+    },
+	{
+      "quest_text": "Слава сотоне"
+    },
+	{
+      "quest_text": "Во славу сотоне!"
+    },
+	{
+      "quest_text": "Слава сотоне!"
+    },
+	{
+      "quest_text": "Во славу сатане!"
+    },
+	{
+      "quest_text": "Слава сатане"
+    }
+  ],
+  "Answers": [
+    {
+      "answ_poss": 100,
+      "answ_text": "https://cs8.pikabu.ru/post_img/2016/03/21/9/1458570768259084151.jpg",
+      "isit_pic": 1
+    }
+  ],
+  "Type": 1
+}
