@@ -22,14 +22,6 @@ from deep_translator import DeeplTranslator
 # In[2]:
 
 
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.support.select import Select
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.common.action_chains import ActionChains as AC
 import sys
 import clipboard
 from time import sleep
@@ -78,48 +70,6 @@ thecookie = ['печеньку','печенюшку','печенюшечку','�
 #- id - идетнтификатор пользователя, 
 #- rating - рейтинг
 # In[4]:
-
-
-def GetNN(neurquest):
-    chrome_options = Options()
-    #chrome_options.add_argument("--headless")
-    driver = webdriver.Chrome(options=chrome_options, executable_path="C:\\Users\\Barmagloth\\AppData\\Local\\Google\\Chrome SxS\\Application\\chromedriver.exe")
-    driver.minimize_window()
-    driver.get("https://russiannlp.github.io/rugpt-demo/")
-    field = driver.find_elements_by_name('text_to_generate')
-    #neurquest = "user1:\"Я больше в афиге, что мне автобус 10 минут ещё ждать\"\nuser2:\""
-    field[0].send_keys(neurquest)
-    for each in field:
-        print (each.text)
-    botan = driver.find_element(By.CLASS_NAME, "btn")
-    botan.click()
-    w = WebDriverWait(driver,30)
-    field = driver.find_element(By.CLASS_NAME, "textareacls")
-    field.click()
-    loading = 'Loading...'
-    while loading == 'Loading...':
-        action = AC(driver)
-    # perform the operation
-        action.key_down(Keys.CONTROL).send_keys('A').key_up(Keys.CONTROL).perform()
-        action.key_down(Keys.CONTROL).send_keys('C').key_up(Keys.CONTROL).perform()
-        loading = clipboard.paste()
-        sleep(1)
-    #loading = loading.lstrip(neurquest)
-    #print (f'{loading}\n\n')
-    position = loading.find('RuGPT3: ')
-    loading = loading[position+8:]
-    position = loading.find('A:"')
-    loading = loading[position+3:]
-    position = loading.find('\"')
-    loading = loading[0:position]
-    #loading = loading.lstrip('RuGPT3: ')
-    #loading = loading.lstrip(neurquest)
-    #position = loading.find('\""')
-    #loading = loading[0:position]
-    #print (loading)
-    #EC.text_to_be_present_in_element((By.CLASS_NAME,"textareacls"),'RuGPT3')
-    driver.close()
-    return (loading)
 
 
 # In[5]:
